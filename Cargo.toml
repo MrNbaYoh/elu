@@ -1,0 +1,13 @@
+[package]
+name = "elu"
+version = "0.1.0"
+edition = "2021"
+description = "Traits and implementations for EVAL-LINK-UPDATE data structures."
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/MrNbaYoh/elu"
+documentation = "https://docs.rs/elu/latest/elu"
+categories =  ["data-structures"]
+
+[dependencies]
+
